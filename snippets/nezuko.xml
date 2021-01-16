@@ -191,4 +191,9 @@
   <!-- Tools Repos -->
   <project path="tools/metalava" name="tools_metalava" remote="pixel" />
 
+  <!-- Exclusive Repos -->
+  <project path="packages/apps/Plugins" name="packages_apps_Plugins" remote="nezuko" />
+  <project path="packages/apps/OmniStyle" name="packages_apps_OmniStyle" remote="nezuko" />
+  <project path="packages/apps/Launcher3" name="packages_apps_Launcher3" remote="nezuko" />
+
 </manifest>

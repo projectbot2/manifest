@@ -86,8 +86,8 @@
   <project path="external/perfetto" name="external_perfetto" remote="pixel" />
   <project path="external/selinux" name="external_selinux" remote="pixel" />
   <project path="external/tinyalsa" name="external_tinyalsa" remote="pixel" />
-  <project path="external/airbnb-lottie" name="external_airbnb-lottie" remote="pixel" />
-  <project path="external/motorola/faceunlock" name="Maitreya29/nezuko" remote="gitlab" revision="r" groups="wave" />
+  <project path="external/airbnb-lottie" name="external_airbnb-lottie" remote="nezuko" />
+  <project path="external/motorola/faceunlock" name="waveproject/external_motorola_faceunlock" remote="gitlab" revision="r" groups="wave" />
   <project path="external/tinycompress" name="external_tinycompress" remote="pixel" />
   <project path="external/toybox" name="external_toybox" remote="pixel" />
 

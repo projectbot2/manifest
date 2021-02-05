@@ -89,6 +89,7 @@
   <project path="external/tinyalsa" name="external_tinyalsa" remote="pixel" />
   <project path="external/airbnb-lottie" name="external_airbnb-lottie" remote="nezuko" />
   <project path="external/motorola/faceunlock" name="waveproject/external_motorola_faceunlock" remote="gitlab" revision="r" groups="wave" />
+  <project path="external/asus/stitchimage" name="external_asus_stitchimage" remote="nezuko"/>
   <project path="external/tinycompress" name="external_tinycompress" remote="pixel" />
   <project path="external/toybox" name="external_toybox" remote="pixel" />
 

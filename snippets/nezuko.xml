@@ -25,6 +25,7 @@
   <remote name="gitlab"
           fetch="https://gitlab.com" />
 
+  
   <!-- CodeAurora additions -->
   <project path="device/qcom/sepolicy" name="device_qcom_sepolicy" remote="pixel" />
   <project path="device/qcom/sepolicy-legacy" name="device_qcom_sepolicy-legacy" remote="pixel" />
@@ -198,7 +199,7 @@
   <!-- Tools Repos -->
   <project path="tools/metalava" name="tools_metalava" remote="pixel" />
 
-  <!-- Exclusive Repos -->
+  <!-- Other Repos -->
   <project path="packages/apps/Plugins" name="packages_apps_Plugins" remote="nezuko" />
   <project path="packages/apps/OmniStyle" name="packages_apps_OmniStyle" remote="nezuko" />
   <project path="packages/apps/Launcher3" name="packages_apps_Launcher3" remote="nezuko" />

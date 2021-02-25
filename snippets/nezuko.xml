@@ -11,7 +11,7 @@
           revision="eleven" />
 
   <remote name="pixel-devices"
-          fetch="https://github.com/PixelExperience-Devices"
+          fetch="https://github.com/NezukoOS-Devices"
           revision="eleven" />
 
   <remote name="pixel-gitlab"

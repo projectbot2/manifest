@@ -10,7 +10,7 @@
           fetch="https://github.com/NezukoOS"
           revision="eleven" />
 
-  <remote name="pixel-devices"
+  <remote name="nezuko-devices"
           fetch="https://github.com/NezukoOS-Devices"
           revision="eleven" />
 

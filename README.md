@@ -24,3 +24,6 @@ $ lunch aosp_$device-userdebug
 # Build the code
 $ mka bacon -jX
 ```
+
+### Apply for Official ###
+If you would like to apply for official, then feel free to take a look [here](https://github.com/NezukoOS/Docs/blob/main/official_requirements.md).
